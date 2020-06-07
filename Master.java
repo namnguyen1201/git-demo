@@ -1,11 +1,11 @@
 public class Master {
-	private String property1;
+	private String m1;
 
-	public String getProperty1() {
-		return property1;
+	public String getM1() {
+		return m1;
 	}
 
-	public void setProperty1(String property1) {
-		this.property1 = property1;
+	public void setM1(String m1) {
+		this.m1 = m1;
 	}
 }
